@@ -3,4 +3,6 @@ Config = {
     logoscript = "106406617099884",--ID Logo Script
     tacgia = "tuan02"-- Tên Tác Giả
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))()
+
+
