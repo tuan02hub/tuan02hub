@@ -1,3 +1,7 @@
---Hạn Sử Dụng
-if os.date("%Y%m%d") >= "20230101" then
-gg.alert(" Script Hết Hạn","Ok")return end
+ game.StarterGui:SetCore("SendNotification", {
+    Title = "MTriet Hub", 
+    Text = "Wait For Update Pls....",
+    Duration = 3
+})
+wait(.3)
+game.Players.LocalPlayer:Kick("tuan02 | discord.gg/kvgAxrRr")
